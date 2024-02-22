@@ -1,4 +1,4 @@
-﻿$form = New-Object System.Windows.Forms.Form
+$form = New-Object System.Windows.Forms.Form
 $form.Text = "Denis Toolbox"
 $form.Size = New-Object System.Drawing.Size(600, 500)
 
